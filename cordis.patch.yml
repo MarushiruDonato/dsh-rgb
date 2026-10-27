@@ -1,0 +1,3 @@
+- insert:
+    - id: rgb-composer-ring
+      name: '@local/rgb-composer-ring'
