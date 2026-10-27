@@ -1,5 +1,7 @@
 # dsh-rgb
 
+![Preview](assets/preview.png)
+
 为 DeepSeek Harness 提供 RGB 灯光效果。
 
 包含四个模块：输入框光环、侧边栏光条、活动会话指示器、品牌 Logo 发光。
