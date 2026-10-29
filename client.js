@@ -1,5 +1,5 @@
 window.__ModuleLoader__.load({
-  id: '@local/rgb-composer-ring',
+  id: 'dsh-rgb',
   factory(require) {
     const React = require('react');
     const h = React.createElement;
